@@ -1,0 +1,26 @@
+.nav_card {
+}
+
+.ul_card {
+  height: 70px;
+  width: 100%;
+  padding: 0px;
+  margin: 0;
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  background-color: royalblue;
+}
+
+.nav_li_items {
+  color: white;
+  text-decoration: none;
+}
+
+.nav_li_items_active {
+  color: yellowgreen;
+  text-decoration: none;
+}
